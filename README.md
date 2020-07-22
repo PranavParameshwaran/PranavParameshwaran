@@ -1,6 +1,6 @@
 # Hello there 👋. I'm Pranav Parameshwaran
 
-* __Computer Engineering Undergrad @ [IIITDM Kancheepuram](http://iiitdm.ac.in/).__
+* __Computer Engineering Undergrad (4th Year) @ [IIITDM Kancheepuram](http://iiitdm.ac.in/).__
 * __Deeply interested in Deep Learning and likes to learn more concepts in the domain of Computer Vision__.
 
 
